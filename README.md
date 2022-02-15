@@ -6,3 +6,4 @@
 
 # Release history
 This are some of the images which shows tha data stored in database of jsonpowerdb.
+![Screenshot (105)](https://user-images.githubusercontent.com/98548643/154084442-a44f29c9-f36c-40ad-a1dc-e9a6f075386a.png)
